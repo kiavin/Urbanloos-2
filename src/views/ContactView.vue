@@ -5,7 +5,7 @@ import Footer from '@/components/Footer.vue'
 <template>
     <Navbar />
     <div>
-        <h1>Contact Us</h1>
+        <h1>Contact kelvin</h1>
     </div>
     <Footer />
 </template>
