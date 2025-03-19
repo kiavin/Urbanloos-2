@@ -2,7 +2,7 @@
   <img src="https://your-image-link.com/logo.png" alt="UrbanLoos Logo" width="200px" />
 </p>
 
-<h1 align="center">UrbanL00s</h1>
+<h1 align="center">UrbanL00se</h1>
 <p align="center">
   <strong>The best mobile toilets rental company in Kenya!</strong><br>
   Premium and affordable sanitation solutions for your events and construction sites.
